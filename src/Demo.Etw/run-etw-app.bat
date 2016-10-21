@@ -1,0 +1,1 @@
+PerfView /onlyProviders=*Microsoft-Demos-Activities run C:\git\toddmeinershagen\demo-etw\src\Demo.Etw\Demo.Etw.CommandLine\bin\Debug\Demo.Etw.CommandLine.exe
